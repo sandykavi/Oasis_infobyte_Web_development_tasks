@@ -1,4 +1,4 @@
-# Zou – Farm Landing Page
+# Green Garden – Farm Landing Page
 
 ### Demo
 * [Codepen](https://codepen.io/mustafadalga/pen/KKgYJxP) 
